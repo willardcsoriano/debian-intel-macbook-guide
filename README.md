@@ -4,8 +4,8 @@
 
 - [Background](#background)
 - [Structure](#structure)
-  - [Step 1 — WiFi Bootstrap](#step-1-wifi-bootstrap)
-  - [Step 2 — Post-Installation Setup](#step-2-post-installation-setup)
+  - [Step 1 — WiFi Bootstrap](#step-1--wifi-bootstrap)
+  - [Step 2 — Post-Installation Setup](#step-2--post-installation-setup)
 - [Compatibility](#compatibility)
 - [License](#license)
 
@@ -49,7 +49,7 @@ The project is split into two independent repositories, each targeting a
 distinct phase of the migration.
 
 ### Step 1 — WiFi Bootstrap
-**[debian-intel-macbook-broadcom-offline](https://github.com/willardcsoriano/debian-intel-macbook-broadcom-offline)**
+**[debian-intel-macbook-wifi-offline](https://github.com/willardcsoriano/debian-intel-macbook-wifi-offline)**
 
 Intel MacBooks use Broadcom WiFi chipsets that require a proprietary driver
 not included in the Linux kernel. A fresh Debian minimal install has no
