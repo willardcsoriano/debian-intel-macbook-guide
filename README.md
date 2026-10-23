@@ -4,8 +4,8 @@
 
 - [Background](#background)
 - [Structure](#structure)
-  - [Step 1 — WiFi Bootstrap](#step-1-wifi-bootstrap)
-  - [Step 2 — Post-Installation Setup](#step-2-post-installation-setup)
+  - [Step 1 — WiFi Bootstrap](#step-1--wifi-bootstrap)
+  - [Step 2 — Post-Installation Setup](#step-2--post-installation-setup)
 - [Compatibility](#compatibility)
 - [License](#license)
 
