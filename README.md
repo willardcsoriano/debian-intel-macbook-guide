@@ -7,6 +7,7 @@
   - [Step 1 — WiFi Bootstrap](#step-1--wifi-bootstrap)
   - [Step 2 — Post-Installation Setup](#step-2--post-installation-setup)
 - [Compatibility](#compatibility)
+- [Related Projects](#related-projects)
 - [License](#license)
 
 A two-part project for migrating Intel MacBooks from macOS to a fully
@@ -82,6 +83,18 @@ transitioning from macOS.
 Tested on MacBook Air 7,2 (Mid-2015, 13-inch) running Debian GNU/Linux 13
 (Trixie). Expected to work on most Intel MacBook models from 2012–2019.
 Apple Silicon Macs (M1 and later) are not supported.
+
+Install from the **Debian 13.4.0** media. The offline WiFi packages in Step 1
+are pinned to that point release's kernel, so a newer or older ISO will not
+build the driver. Step 1's README explains why and links the archived ISO.
+
+---
+
+## Related Projects
+
+**[debian-server-baselines](https://github.com/willardcsoriano/debian-server-baselines)**
+hardens Debian servers: SSH, firewall, fail2ban, auditing and container hosts.
+It is a separate project for servers, not part of this laptop series.
 
 ---
 
